@@ -1,0 +1,7 @@
+C++ is a high performance programming language designed for system level development and resource constrained applications. It bridges the gap between low level hardware manipulation and high level abstract programming.
+Maximum Performance: Compiles directly to native machine code. Eliminates runtime interpreter overhead.
+Hardware Control: Allows direct memory management via pointers. Enables precise manipulation of CPU resources.
+Object Oriented Architecture: Supports classes, inheritance, polymorphism, and encapsulation. Simplifies complex software design.
+Rich Library Support: Features the Standard Template Library (STL). Provides ready to use data structures and algorithms.
+High Portability: Code runs across diverse operating systems. Compilers exist for nearly every modern architecture.
+Large Ecosystem: Possesses decades of community support, extensive documentation, and robust development tools.
